@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="7" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_58_15_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_58_15_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_58_19_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_58_19_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_58_37_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_58_37_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_58_42_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_58_42_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Sanity Suite" duration-ms="33796" started-at="2022-12-12T22:58:09 GMT" finished-at="2022-12-12T22:58:43 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="ComputerTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.nopcommerce.testsuite.ComputerTest"/>
+        <method signature="ComputerTest1.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.nopcommerce.testsuite.ComputerTest1"/>
+        <method signature="ElectronicTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" class="com.nopcommerce.testsuite.ElectronicTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="verifyUserShouldNavigateToComputer" class="com.nopcommerce.testsuite.HomePageTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="ComputerTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.nopcommerce.testsuite.ComputerTest"/>
+        <method signature="ComputerTest1.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.nopcommerce.testsuite.ComputerTest1"/>
+        <method signature="ElectronicTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" class="com.nopcommerce.testsuite.ElectronicTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="verifyUserShouldNavigateToComputer" class="com.nopcommerce.testsuite.HomePageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Sanity Test" duration-ms="33796" started-at="2022-12-12T22:58:09 GMT" finished-at="2022-12-12T22:58:43 GMT">
+      <class name="com.nopcommerce.testsuite.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="setUp" is-config="true" duration-ms="4001" started-at="2022-12-12T22:58:09 GMT" finished-at="2022-12-12T22:58:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="inIt" is-config="true" duration-ms="25" started-at="2022-12-12T22:58:13 GMT" finished-at="2022-12-12T22:58:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="verifyUserShouldNavigateToComputer" duration-ms="973" started-at="2022-12-12T22:58:13 GMT" finished-at="2022-12-12T22:58:14 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_58_15_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_58_15_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testsuite.HomePageTest@306279ee]" name="tearDown" is-config="true" duration-ms="647" started-at="2022-12-12T22:58:15 GMT" finished-at="2022-12-12T22:58:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testsuite.HomePageTest -->
+      <class name="com.nopcommerce.testsuite.ComputerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="setUp" is-config="true" duration-ms="2336" started-at="2022-12-12T22:58:38 GMT" finished-at="2022-12-12T22:58:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-12T22:58:41 GMT" finished-at="2022-12-12T22:58:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="verifyProductArrangeInAlphaBaticalOrder" duration-ms="1448" started-at="2022-12-12T22:58:41 GMT" finished-at="2022-12-12T22:58:42 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_58_42_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_58_42_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphaBaticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest@134593bf]" name="tearDown" is-config="true" duration-ms="635" started-at="2022-12-12T22:58:42 GMT" finished-at="2022-12-12T22:58:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testsuite.ComputerTest -->
+      <class name="com.nopcommerce.testsuite.ComputerTest1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="setUp" is-config="true" duration-ms="1834" started-at="2022-12-12T22:58:20 GMT" finished-at="2022-12-12T22:58:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="inIt" is-config="true" duration-ms="6" started-at="2022-12-12T22:58:22 GMT" finished-at="2022-12-12T22:58:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="15371" started-at="2022-12-12T22:58:22 GMT" finished-at="2022-12-12T22:58:37 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_58_37_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_58_37_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testsuite.ComputerTest1@61ca2dfa]" name="tearDown" is-config="true" duration-ms="680" started-at="2022-12-12T22:58:37 GMT" finished-at="2022-12-12T22:58:38 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testsuite.ComputerTest1 -->
+      <class name="com.nopcommerce.testsuite.ElectronicTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="setUp" is-config="true" duration-ms="2208" started-at="2022-12-12T22:58:15 GMT" finished-at="2022-12-12T22:58:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="inIt" is-config="true" duration-ms="9" started-at="2022-12-12T22:58:18 GMT" finished-at="2022-12-12T22:58:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" duration-ms="1211" started-at="2022-12-12T22:58:18 GMT" finished-at="2022-12-12T22:58:19 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_58_19_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\palak\IdeaProjects\project-5-demo.nopcommerce.com-wk-15-pfm-palakd/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_58_19_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToCellPhonesPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testsuite.ElectronicTest@5a4041cc]" name="tearDown" is-config="true" duration-ms="660" started-at="2022-12-12T22:58:19 GMT" finished-at="2022-12-12T22:58:20 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testsuite.ElectronicTest -->
+    </test> <!-- Sanity Test -->
+  </suite> <!-- Sanity Suite -->
+</testng-results>

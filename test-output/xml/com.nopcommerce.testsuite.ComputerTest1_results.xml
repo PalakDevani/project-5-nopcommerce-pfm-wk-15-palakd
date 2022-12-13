@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.371">
+  <properties />
+  
+  
+            <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="15.371" classname="com.nopcommerce.testsuite.ComputerTest1" />
+      
+</testsuite>
